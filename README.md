@@ -33,12 +33,12 @@ class TahaKotil:
     
     stack = {
         "languages":  ["Python", "TypeScript", "PHP"],
-        "backend":    ["FastAPI", "Celery", "Node.js"],
+        "backend":    ["FastAPI", "Flask", "Celery", "Node.js"],
         "frontend":   ["Next.js", "React", "Tailwind"],
-        "ai":         ["OpenAI", "ElevenLabs", "DALL-E", "Suno"],
+        "ai":         ["OpenAI", "ElevenLabs", "DALL-E", "Suno", "HeyGen"],
         "infra":      ["Docker", "Dokku", "Hetzner", "Cloudflare"],
         "data":       ["PostgreSQL", "Redis", "Prisma"],
-        "automation": ["n8n", "Custom bots", "Anti-detection"],
+        "automation": ["n8n", "Playwright", "Anti-detection"],
     }
     
     def daily(self):
