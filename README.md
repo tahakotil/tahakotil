@@ -13,8 +13,6 @@
   <a href="https://twigest.com"><img src="https://img.shields.io/badge/Twigest-F59E0B?style=for-the-badge&logoColor=black" alt="Twigest"/></a>&nbsp;
   <a href="https://hedipage.com"><img src="https://img.shields.io/badge/Hedipage-E91E63?style=for-the-badge&logoColor=white" alt="Hedipage"/></a>&nbsp;
   <a href="https://x.com/tahakotil"><img src="https://img.shields.io/badge/𝕏-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
-</p>
-<p align="center">
   <a href="https://github.com/tahakotil/fastapi-production-kit"><img src="https://img.shields.io/badge/fastapi--production--kit-000?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi-production-kit"/></a>&nbsp;
   <a href="https://github.com/tahakotil/webhook-cannon"><img src="https://img.shields.io/badge/webhook--cannon-000?style=for-the-badge&logo=python&logoColor=white" alt="webhook-cannon"/></a>
 </p>
