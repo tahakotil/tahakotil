@@ -18,7 +18,6 @@
   <a href="https://github.com/tahakotil/webhook-cannon"><img src="https://img.shields.io/badge/webhook--cannon-3776AB?style=flat-square&logo=python&logoColor=white" alt="webhook-cannon"/></a>&nbsp;
   <a href="https://pypi.org/project/webhook-cannon/"><img src="https://img.shields.io/pypi/v/webhook-cannon?style=flat-square&color=F59E0B&label=PyPI" alt="PyPI"/></a>
 </p>
----
 ```python
 class TahaKotil:
     building = [
