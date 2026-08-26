@@ -1,25 +1,49 @@
-# Taha Kotil
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+    <img src="./assets/profile-light.svg" alt="Taha Kotil — production software, automation, and developer tools" width="100%">
+  </picture>
+</p>
 
-I build production SaaS, automation systems, and developer tools.
+<p align="center">
+  <a href="https://x.com/tahakotilai"><strong>X</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tahakotil/"><strong>LinkedIn</strong></a>
+</p>
 
-Based in Türkiye. Working independently through [Kotivon](https://kotivon.com).
+I work where product code, asynchronous systems, and deployment meet. Most of my public work is in Python and TypeScript; the operating bias is simple: fewer moving parts, observable failures, and software that reaches production.
 
-## Open source
+### `01 / SELECTED OPEN SOURCE`
 
-- [**webhook-cannon**](https://github.com/tahakotil/webhook-cannon) — async Python webhook delivery with HMAC signing, SSRF protection, and endpoint health controls. Available on [PyPI](https://pypi.org/project/webhook-cannon/).
-- [**fastapi-production-kit**](https://github.com/tahakotil/fastapi-production-kit) — a production-oriented FastAPI starter with async SQLAlchemy, Celery, structured logging, Docker, and secure defaults.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tahakotil/webhook-cannon">webhook-cannon</a></h3>
+      <p>Async Python webhook delivery with HMAC signing, SSRF protection, replay controls, and endpoint health state.</p>
+      <p><code>Python</code> <code>security</code> <code>async I/O</code></p>
+      <p><a href="https://pypi.org/project/webhook-cannon/">PyPI package</a> · MIT</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/tahakotil/fastapi-production-kit">fastapi-production-kit</a></h3>
+      <p>A production-oriented FastAPI starter with async SQLAlchemy, Celery, structured logs, health checks, and secure defaults.</p>
+      <p><code>FastAPI</code> <code>Celery</code> <code>Docker</code></p>
+      <p>Reference kit · MIT</p>
+    </td>
+  </tr>
+</table>
 
-## Current engineering work
+### `02 / CURRENT SIGNAL`
 
-- Production SaaS and workflow automation
-- AI-assisted product pipelines
-- Python and TypeScript backend systems
-- Upstream reliability fixes for open-source developer tools
+> Contributing desktop message-integrity and transcript-reconciliation fixes upstream to [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/pull/93494).
 
-## Core stack
+### `03 / OPERATING RANGE`
 
-`Python` · `TypeScript` · `FastAPI` · `Next.js` · `PostgreSQL` · `Redis` · `Docker` · `Linux`
+```text
+languages      Python · TypeScript · SQL
+backend        FastAPI · async jobs · queues · webhooks
+systems        PostgreSQL · Redis · stateful workflows
+delivery       Docker · Linux · GitHub Actions · cloud infrastructure
+```
 
-## Contact
-
-[Website](https://kotivon.com) · [X](https://x.com/tahakotilai) · [LinkedIn](https://www.linkedin.com/in/tahakotil/)
+<sub>Public profile assets are self-hosted in this repository. No generated stats, tracking pixels, or external theme service.</sub>
