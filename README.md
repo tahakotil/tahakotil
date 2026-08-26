@@ -1,5 +1,7 @@
 <p align="center">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/profile-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/profile-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
     <img src="./assets/profile-light.svg" alt="Taha Kotil — production software, automation, and developer tools" width="100%">
