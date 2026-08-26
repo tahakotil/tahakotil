@@ -16,30 +16,11 @@
 
 I work where product code, asynchronous systems, and deployment meet. Most of my public work is in Python and TypeScript; the operating bias is simple: fewer moving parts, observable failures, and software that reaches production.
 
-### `01 / SELECTED OPEN SOURCE`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tahakotil/webhook-cannon">webhook-cannon</a></h3>
-      <p>Async Python webhook delivery with HMAC signing, SSRF protection, replay controls, and endpoint health state.</p>
-      <p><code>Python</code> <code>security</code> <code>async I/O</code></p>
-      <p><a href="https://pypi.org/project/webhook-cannon/">PyPI package</a> · MIT</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/tahakotil/fastapi-production-kit">fastapi-production-kit</a></h3>
-      <p>A production-oriented FastAPI starter with async SQLAlchemy, Celery, structured logs, health checks, and secure defaults.</p>
-      <p><code>FastAPI</code> <code>Celery</code> <code>Docker</code></p>
-      <p>Reference kit · MIT</p>
-    </td>
-  </tr>
-</table>
-
-### `02 / CURRENT SIGNAL`
+### `01 / CURRENT OPEN-SOURCE WORK`
 
 > Contributing desktop message-integrity and transcript-reconciliation fixes upstream to [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/pull/93494).
 
-### `03 / OPERATING RANGE`
+### `02 / OPERATING RANGE`
 
 ```text
 languages      Python · TypeScript · SQL
