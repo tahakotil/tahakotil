@@ -16,9 +16,10 @@
 
 I work where product code, asynchronous systems, and deployment meet. Most of my public work is in Python and TypeScript; the operating bias is simple: fewer moving parts, observable failures, and software that reaches production.
 
-### `01 / CURRENT OPEN-SOURCE WORK`
+### `01 / SELECTED OPEN-SOURCE WORK`
 
-> Contributing desktop message-integrity and transcript-reconciliation fixes upstream to [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/pull/93494).
+- [Prometheus client_js #836](https://github.com/prometheus/client_js/pull/836) — Merged core metric-path fallback handling that preserves valid falsy values.
+- [ESLint #21276](https://github.com/eslint/eslint/pull/21276) — Maintainer-approved `no-unreachable` fix for static imports with focused regression coverage.
 
 ### `02 / OPERATING RANGE`
 
