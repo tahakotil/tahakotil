@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/tahakotilai"><strong>X</strong></a>
+  <a href="https://x.com/tahakotildev"><strong>X</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/tahakotil/"><strong>LinkedIn</strong></a>
 </p>
