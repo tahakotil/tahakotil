@@ -18,8 +18,9 @@ I work where product code, asynchronous systems, and deployment meet. Most of my
 
 ### `01 / SELECTED OPEN-SOURCE WORK`
 
-- [Prometheus client_js #836](https://github.com/prometheus/client_js/pull/836) — Merged core metric-path fallback handling that preserves valid falsy values.
-- [ESLint #21276](https://github.com/eslint/eslint/pull/21276) — Maintainer-approved `no-unreachable` fix for static imports with focused regression coverage.
+- [Prometheus client_js #836](https://github.com/prometheus/client_js/pull/836) — Merged: core metric-path fallback handling that preserves valid falsy values.
+- [ESLint #21276](https://github.com/eslint/eslint/pull/21276) — Merged: `no-unreachable` no longer flags static imports; focused regression coverage.
+- [avenoxbeyin #85](https://github.com/avenoxai/avenoxbeyin/pull/85) — Merged: OMP (Oh My Pi) support as a sixth agent harness for a local, Markdown-based second brain.
 
 ### `02 / OPERATING RANGE`
 
@@ -29,5 +30,3 @@ backend        FastAPI · async jobs · queues · webhooks
 systems        PostgreSQL · Redis · stateful workflows
 delivery       Docker · Linux · GitHub Actions · cloud infrastructure
 ```
-
-<sub>Public profile assets are self-hosted in this repository. No generated stats, tracking pixels, or external theme service.</sub>

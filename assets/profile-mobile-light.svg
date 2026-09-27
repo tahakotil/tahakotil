@@ -25,10 +25,10 @@
   <circle cx="558" cy="226" r="118" fill="none" stroke="#b45309" stroke-opacity="0.13"/>
 
   <rect x="42" y="108" width="8" height="118" rx="4" fill="#d97706"/>
-  <text x="74" y="132" fill="#b45309" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="2.4">ENGINEERING / DELIVERY</text>
+  <text x="74" y="132" fill="#b45309" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="2.4">ENGINEERING / SYSTEMS / DELIVERY</text>
   <text x="70" y="218" fill="#1f2328" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="760" letter-spacing="-2">TAHA</text>
   <text x="70" y="292" fill="#1f2328" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="760" letter-spacing="-2">KOTIL</text>
-  <text x="74" y="338" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="23">software · automation · tools</text>
+  <text x="74" y="338" fill="#57606a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="23">software · automation · dev tools</text>
 
   <rect x="42" y="382" width="636" height="58" rx="12" fill="#ffffff" stroke="#d0d7de"/>
   <text x="66" y="418" fill="#b45309" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="700">$</text>
