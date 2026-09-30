@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="634" viewBox="0 0 1200 634" role="img" aria-labelledby="t d">
-<title id="t">Taha Kotil — Software Engineer</title>
+<title id="t">Taha Kotil · Software Engineer</title>
 <desc id="d">Terminal introducing Taha Kotil: focus areas, stack and recent merged pull requests.</desc>
 <style>
 text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:18px;white-space:pre}
@@ -18,7 +18,7 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono
 <text x="44" y="88" class="p f" style="animation-delay:0.30s">$</text>
 <clipPath id="c88"><rect x="65.68" y="70" height="26" width="0"><animate attributeName="width" values="0.0;10.84;21.68;32.52;43.36;54.2;65.04" calcMode="discrete" begin="0.30s" dur="0.50s" fill="freeze"/></rect></clipPath>
 <text x="65.68" y="88" class="c" clip-path="url(#c88)">whoami</text>
-<text x="44" y="118" class="c f" style="animation-delay:1.15s;font-weight:700">Taha Kotil — Software Engineer</text>
+<text x="44" y="118" class="c f" style="animation-delay:1.15s;font-weight:700">Taha Kotil · Software Engineer</text>
 <text x="44" y="148" class="o f" style="animation-delay:1.40s">production software · automation · AI agent tooling</text>
 <text x="44" y="208" class="p f" style="animation-delay:1.65s">$</text>
 <clipPath id="c208"><rect x="65.68" y="190" height="26" width="0"><animate attributeName="width" values="0.0;10.84;21.68;32.52;43.36;54.2;65.04;75.88;86.72;97.56;108.4" calcMode="discrete" begin="1.65s" dur="0.50s" fill="freeze"/></rect></clipPath>

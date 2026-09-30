@@ -5,7 +5,7 @@ Ported from a one-off draft generator to run unattended (see
 .github/workflows/update-profile.yml). Talks to the GitHub GraphQL API using
 only the standard library and the ambient GITHUB_TOKEN. The visual design of
 the SVG and the README layout are intentionally unchanged from the committed
-version -- only the underlying numbers/dates/rows are data-driven.
+version; only the underlying numbers/dates/rows are data-driven.
 
 "Today" is deliberately never taken from the local clock: it is always the
 last day present in the fetched contribution calendar, so a re-run against
@@ -148,7 +148,7 @@ def render_activity_svg(days: list[tuple[str, int]], year_total: int) -> str:
     area = f"{line} L{R} {B} L{L} {B} Z"
     s = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="t d">',
-        "<title id=\"t\">Taha Kotil — GitHub activity, last 8 weeks</title>",
+        "<title id=\"t\">Taha Kotil · GitHub activity, last 8 weeks</title>",
         f'<desc id="d">{total} contributions over the last 8 weeks, {active} of 56 days active, {year_total} in the last year.</desc>',
         "<defs>",
         '<linearGradient id="fill" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f59e0b" stop-opacity=".35"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></linearGradient>',
@@ -164,7 +164,7 @@ def render_activity_svg(days: list[tuple[str, int]], year_total: int) -> str:
         f'<path d="M0 16a16 16 0 0 1 16-16h{W - 32}a16 16 0 0 1 16 16v28H0z" fill="#161b22"/>',
         f'<path d="M0 44H{W}" stroke="#30363d"/>',
         '<circle cx="26" cy="22" r="6.5" fill="#ff5f57"/><circle cx="48" cy="22" r="6.5" fill="#febc2e"/><circle cx="70" cy="22" r="6.5" fill="#28c840"/>',
-        f'<text x="{W / 2}" y="28" text-anchor="middle" style="font-size:14px;fill:#7d8590">activity — last 8 weeks</text>',
+        f'<text x="{W / 2}" y="28" text-anchor="middle" style="font-size:14px;fill:#7d8590">activity · last 8 weeks</text>',
     ]
     stats = [(f"{total:,}", "contributions · 8 weeks"), (f"{active}/56", "active days"), (f"{year_total:,}", "contributions · 12 months")]
     colw = (R - L) / 3
@@ -190,9 +190,16 @@ def render_activity_svg(days: list[tuple[str, int]], year_total: int) -> str:
     return "\n".join(s)
 
 
+def strip_dashes(text: str) -> str:
+    """PR titles land on the public profile; keep em/en dashes out of it."""
+    for dash in ("\u2014", "\u2013"):
+        text = text.replace(f" {dash} ", ", ").replace(dash, "-")
+    return text
+
+
 def render_pr_rows(prs: list[tuple[str, int, str, str]]) -> str:
     return "\n".join(
-        f"| [`{repo}`](https://github.com/{repo}) | [#{n}]({pr_url(repo, n)}) | {html.escape(title)} |"
+        f"| [`{repo}`](https://github.com/{repo}) | [#{n}]({pr_url(repo, n)}) | {html.escape(strip_dashes(title))} |"
         for repo, n, title, _ in prs
     )
 

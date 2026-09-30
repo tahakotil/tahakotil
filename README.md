@@ -1,6 +1,6 @@
-<img src="./assets/terminal.svg" alt="Taha Kotil — Software Engineer. Focus: backend systems, automation, AI agent tooling, developer tools." width="100%">
+<img src="./assets/terminal.svg" alt="Taha Kotil, Software Engineer. Focus: backend systems, automation, AI agent tooling, developer tools." width="100%">
 
-**Software Engineer** building production software — backend services, automation and AI agent tooling.
+**Software Engineer** building production software: backend services, automation and AI agent tooling.
 Mostly Python and TypeScript, shipped with Docker on Linux. Fewer moving parts, observable failures, software that reaches production.
 
 <img src="./assets/activity.svg" alt="GitHub activity over the last 8 weeks" width="100%">
@@ -11,8 +11,8 @@ Mostly Python and TypeScript, shipped with Docker on Linux. Fewer moving parts, 
 
 | Repository | PR | Change |
 | --- | --- | --- |
-| [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#132](https://github.com/avenoxai/avenoxbeyin/pull/132) | feat(hygiene): opt-in hook signals — word cap, folder questions, promotion |
-| [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#129](https://github.com/avenoxai/avenoxbeyin/pull/129) | feat(hygiene): read-only doctor reports — boundary + closed tasks |
+| [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#132](https://github.com/avenoxai/avenoxbeyin/pull/132) | feat(hygiene): opt-in hook signals, word cap, folder questions, promotion |
+| [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#129](https://github.com/avenoxai/avenoxbeyin/pull/129) | feat(hygiene): read-only doctor reports, boundary + closed tasks |
 | [`symfony/symfony-docs`](https://github.com/symfony/symfony-docs) | [#23106](https://github.com/symfony/symfony-docs/pull/23106) | [Security] Fix lowest argon time_cost in PHP config example |
 | [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#124](https://github.com/avenoxai/avenoxbeyin/pull/124) | fix(omp): doctor reports stale global hook copies as information-only |
 | [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#85](https://github.com/avenoxai/avenoxbeyin/pull/85) | feat(omp): support OMP (Oh My Pi) as a sixth harness |
