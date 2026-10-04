@@ -36,9 +36,9 @@ text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono
 <text x="44" y="538" class="p f" style="animation-delay:4.56s">$</text>
 <clipPath id="c538"><rect x="65.68" y="520" height="26" width="0"><animate attributeName="width" values="0.0;10.84;21.68;32.52;43.36;54.2;65.04;75.88;86.72;97.56;108.4;119.24;130.08;140.92;151.76;162.6;173.44;184.28;195.12;205.96;216.8;227.64;238.48;249.32;260.16;271.0;281.84;292.68;303.52;314.36;325.2;336.04;346.88;357.72;368.56;379.4;390.24;401.08;411.92;422.76;433.6;444.44;455.28;466.12;476.96;487.8" calcMode="discrete" begin="4.56s" dur="1.58s" fill="freeze"/></rect></clipPath>
 <text x="65.68" y="538" class="c" clip-path="url(#c538)">gh search prs --author=@me --merged --limit 3</text>
-<text x="44" y="568" class="f" style="animation-delay:6.49s"><tspan class="ok">✓ </tspan><tspan class="r">eslint/eslint         </tspan><tspan class="n">#21276  </tspan><tspan class="ti">fix: Ignore static imports in no-unreachable</tspan></text>
-<text x="44" y="598" class="f" style="animation-delay:6.65s"><tspan class="ok">✓ </tspan><tspan class="r">prometheus/client_js  </tspan><tspan class="n">#836    </tspan><tspan class="ti">perf: remove core metric fallback truthiness</tspan></text>
-<text x="44" y="628" class="f" style="animation-delay:6.81s"><tspan class="ok">✓ </tspan><tspan class="r">avenoxai/avenoxbeyin  </tspan><tspan class="n">#85     </tspan><tspan class="ti">feat(omp): support OMP (Oh My Pi) as a sixth harness</tspan></text>
+<text x="44" y="568" class="f" style="animation-delay:6.49s"><tspan class="ok">✓ </tspan><tspan class="r">mozilla/pontoon       </tspan><tspan class="n">#4523   </tspan><tspan class="ti">Fix obsolete Google Translate locale link</tspan></text>
+<text x="44" y="598" class="f" style="animation-delay:6.65s"><tspan class="ok">✓ </tspan><tspan class="r">symfony/symfony-docs  </tspan><tspan class="n">#23106  </tspan><tspan class="ti">[Security] Fix lowest argon time_cost in PHP config example</tspan></text>
+<text x="44" y="628" class="f" style="animation-delay:6.81s"><tspan class="ok">✓ </tspan><tspan class="r">eslint/eslint         </tspan><tspan class="n">#21276  </tspan><tspan class="ti">fix: Ignore static imports in no-unreachable</tspan></text>
 <text x="44" y="658" class="p f" style="animation-delay:6.97s">$</text>
 <rect x="65.68" y="642" width="10.84" height="20" fill="#e6edf3" class="f" style="animation-delay:6.97s"/>
 <rect x="65.68" y="642" width="10.84" height="20" fill="#0d1117" class="cur"/>
