@@ -7,10 +7,12 @@ Mostly Python and TypeScript, shipped with Docker on Linux. Fewer moving parts, 
 
 <div align="center">
 <details>
-<summary><b>Open source</b> · 11 merged pull requests upstream</summary>
+<summary><b>Open source</b> · 13 merged pull requests upstream</summary>
 
 | Repository | PR | Change |
 | --- | --- | --- |
+| [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14589](https://github.com/can1357/oh-my-pi/pull/14589) | fix(tui): keep code fences inside JSON when parsing generated agent spec |
+| [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14590](https://github.com/can1357/oh-my-pi/pull/14590) | fix(tui): label the question-switch keys in the Ask dialog footer |
 | [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | [#4661](https://github.com/career-ops-hq/career-ops/pull/4661) | docs: remove advertised eu-fintech preset that does not exist |
 | [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#132](https://github.com/avenoxai/avenoxbeyin/pull/132) | feat(hygiene): opt-in hook signals, word cap, folder questions, promotion |
 | [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#129](https://github.com/avenoxai/avenoxbeyin/pull/129) | feat(hygiene): read-only doctor reports, boundary + closed tasks |
