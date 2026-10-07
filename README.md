@@ -7,10 +7,11 @@ Mostly Python and TypeScript, shipped with Docker on Linux. Fewer moving parts, 
 
 <div align="center">
 <details>
-<summary><b>Open source</b> · 13 merged pull requests upstream</summary>
+<summary><b>Open source</b> · 14 merged pull requests upstream</summary>
 
 | Repository | PR | Change |
 | --- | --- | --- |
+| [`pola-rs/polars`](https://github.com/pola-rs/polars) | [#29666](https://github.com/pola-rs/polars/pull/29666) | fix: Fix `clip` not broadcasting length-1 input against full-length bounds |
 | [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14589](https://github.com/can1357/oh-my-pi/pull/14589) | fix(tui): keep code fences inside JSON when parsing generated agent spec |
 | [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14590](https://github.com/can1357/oh-my-pi/pull/14590) | fix(tui): label the question-switch keys in the Ask dialog footer |
 | [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | [#4661](https://github.com/career-ops-hq/career-ops/pull/4661) | docs: remove advertised eu-fintech preset that does not exist |
