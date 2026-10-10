@@ -7,10 +7,12 @@ Mostly Python and TypeScript, shipped with Docker on Linux. Fewer moving parts, 
 
 <div align="center">
 <details>
-<summary><b>Open source</b> · 14 merged pull requests upstream</summary>
+<summary><b>Open source</b> · 16 merged pull requests upstream</summary>
 
 | Repository | PR | Change |
 | --- | --- | --- |
+| [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14788](https://github.com/can1357/oh-my-pi/pull/14788) | fix(coding-agent): log plugin registry discovery warnings |
+| [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14376](https://github.com/can1357/oh-my-pi/pull/14376) | fix(coding-agent): report cell line and column with a code frame for JS eval syntax errors |
 | [`pola-rs/polars`](https://github.com/pola-rs/polars) | [#29666](https://github.com/pola-rs/polars/pull/29666) | fix: Fix `clip` not broadcasting length-1 input against full-length bounds |
 | [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14589](https://github.com/can1357/oh-my-pi/pull/14589) | fix(tui): keep code fences inside JSON when parsing generated agent spec |
 | [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14590](https://github.com/can1357/oh-my-pi/pull/14590) | fix(tui): label the question-switch keys in the Ask dialog footer |
