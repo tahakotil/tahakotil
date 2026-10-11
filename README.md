@@ -7,10 +7,11 @@ Mostly Python and TypeScript, shipped with Docker on Linux. Fewer moving parts, 
 
 <div align="center">
 <details>
-<summary><b>Open source</b> · 16 merged pull requests upstream</summary>
+<summary><b>Open source</b> · 17 merged pull requests upstream</summary>
 
 | Repository | PR | Change |
 | --- | --- | --- |
+| [`avenoxai/avenoxbeyin`](https://github.com/avenoxai/avenoxbeyin) | [#276](https://github.com/avenoxai/avenoxbeyin/pull/276) | feat(yakala): Linux support (KDE/GNOME hotkey, clipboard context, kdialog/zenity fallback) |
 | [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14788](https://github.com/can1357/oh-my-pi/pull/14788) | fix(coding-agent): log plugin registry discovery warnings |
 | [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14376](https://github.com/can1357/oh-my-pi/pull/14376) | fix(coding-agent): report cell line and column with a code frame for JS eval syntax errors |
 | [`pola-rs/polars`](https://github.com/pola-rs/polars) | [#29666](https://github.com/pola-rs/polars/pull/29666) | fix: Fix `clip` not broadcasting length-1 input against full-length bounds |
