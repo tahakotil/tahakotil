@@ -7,10 +7,11 @@ Mostly Python and TypeScript, shipped with Docker on Linux. Fewer moving parts, 
 
 <div align="center">
 <details>
-<summary><b>Open source</b> · 20 merged pull requests upstream</summary>
+<summary><b>Open source</b> · 21 merged pull requests upstream</summary>
 
 | Repository | PR | Change |
 | --- | --- | --- |
+| [`TheAlgorithms/PHP`](https://github.com/TheAlgorithms/PHP) | [#198](https://github.com/TheAlgorithms/PHP/pull/198) | test: add unit tests for Utils/ExecutionTime |
 | [`jax-ml/jax`](https://github.com/jax-ml/jax) | [#41168](https://github.com/jax-ml/jax/pull/41168) | Fix jnp.modf fractional part for infinite inputs |
 | [`can1357/oh-my-pi`](https://github.com/can1357/oh-my-pi) | [#14591](https://github.com/can1357/oh-my-pi/pull/14591) | fix(coding-agent): log missing power assertion backend once at debug instead of warning every turn |
 | [`code-yeongyu/oh-my-openagent`](https://github.com/code-yeongyu/oh-my-openagent) | [#9594](https://github.com/code-yeongyu/oh-my-openagent/pull/9594) | fix(lsp-core): re-resolve push diagnostics after an unsupported pull response (#9476) |
